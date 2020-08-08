@@ -3,6 +3,7 @@ layout: tour
 title: Idarwald - Schmidtburg und zurück
 date: 2020-08-02 14:00:00 +0200
 description: Von Fuß des Idarwaldes über die Hunsrückhöhen ins Hahnenbachtal zur malerischen Schmidtburg.
+img: schmidtburg/solitaerbuche-bei-hottenbach.jpg
 tags: [Mountainbike]
 tour-id: 114755136
 ---
