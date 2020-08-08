@@ -11,7 +11,9 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Peter Reuter # add your name
 author-img: peter-reuter.jpg # add your photo
-about-author: Hunsrücker mit Leib und Seele. Gerne draußen unterwegs, am liebsten auf dem Mountainbike, aber auch immer wieder gern zu Fuß oder mit der Kutsche. # add description
+about-author: >
+  Hunsrücker mit Leib und Seele. Gerne draußen unterwegs, am liebsten auf dem Mountainbike, aber auch immer wieder gern zu Fuß oder mit der Kutsche. 
+  Wer eine geführte Tour sucht, kann sich gerne unter unten stehende E-Mail-Adresse bei mir melden.
 social-email: tours@reuter-hunsrueck.de # add your Email address
 social-outdooractive: https://www.outdooractive.com/de/author/peter-reuter/114754892/
 
