@@ -1,6 +1,6 @@
 # Peters Touren-Website (forked from Flexible-Jekyll)
 
-![Original repository](https://github.com/artemsheludko/flexible-jekyll/)
+[Original repository](https://github.com/artemsheludko/flexible-jekyll/)
 
 ## Demo
 
